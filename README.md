@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil!
 
 -  Atualmente trabalho como analista de suporte.
--  Estou estudando JAVA e automação de testes.
+-  Estou estudando para ser um desenvolvedor fullstack.
 
 <a href="https://github.com/Lucas5511">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas5511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
