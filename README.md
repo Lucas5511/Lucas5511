@@ -6,6 +6,7 @@
 <a href="https://github.com/Lucas5511">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas5511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5511&layout=compact&langs_count=7&theme=tokyonight"/>
+    
 </div>
 
 <div > <br> 
@@ -24,4 +25,5 @@
   <div style="display: inline_block"> <br>
    <a href = "mailto:lucas.saliba51@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-oliveira-saliba-rebouças-561122210/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
 </div>
