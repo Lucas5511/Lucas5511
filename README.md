@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil!
 
 -  Atualmente trabalho como Analista de teste/QA.
--  Estou estudando para ser um desenvolvedor fullstack.
+
 
 
 
